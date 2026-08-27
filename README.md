@@ -9,16 +9,16 @@
 
 ---
 
-### 🧬 About Me
+###  About Me
 
-- 🎓 Biomedical Engineer, currently pursuing a Master's in Computational Biomedical Engineering Master at Universitat Pompeu Fabra
-- 🔬 Interested in biomedical imaging, data analysis and artificial intelligence.
-- 🚀 Recently completed my Bachelor's Thesis: Personalized prediction of the effect of extra virgin olive oil on metabolic health using artificial intelligence algorithms: application to the APRIL study 
-- 📫 Want to get in touch? Check the links below
+ ➜ Biomedical Engineer, currently pursuing a Master's in Computational Biomedical Engineering Master at Universitat Pompeu Fabra
+ ➜ Interested in biomedical imaging, data analysis and artificial intelligence.
+ ➜ Recently completed my Bachelor's Thesis: Personalized prediction of the effect of extra virgin olive oil on metabolic health using artificial intelligence algorithms: application to the APRIL study 
+ ➜ Want to get in touch? Check the links below
 
 ---
 
-### 🔗 Connect with me
+###  Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/lucía-fernández-fernández-6702a4257" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -29,19 +29,19 @@
 </p>
 ---
 
-### 💡 Some Featured Projects
+###  Some Featured Projects
 
 **TFG. ML-based prediction of the effect of AOVE on metabolic health**
 Secondary study of the APRIL nutritional intervention by the University of Málaga, IBIMA and Málaga Regional Hospital
-🔗 Contact me for further details
+➜ Contact me for further details
 
 
 **Nebula. In progress...**
 Analysis of overrepresentation of biological pathways
-🔗 Contact me for further details
+➜ Contact me for further details
 
 
 **Computational Detection of Liver Metastases**
 One-line description of what the project does.
-🔗 View repository: (https://github.com/ae7ffl/LiverImaging_DetectionMetastases_3UMA)
+➜ View repository: (https://github.com/ae7ffl/LiverImaging_DetectionMetastases_3UMA)
 
