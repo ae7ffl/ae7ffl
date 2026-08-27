@@ -33,16 +33,13 @@
 ###  Some Featured Projects
 
 **TFG. ML-based prediction of the effect of AOVE on metabolic health**
-Secondary study of the APRIL nutritional intervention by the University of Málaga, IBIMA and Málaga Regional Hospital
--  Contact me for further details
+Secondary study of the APRIL nutritional intervention by the University of Málaga, IBIMA and Málaga Regional Hospital. (Contact me for further details).
 
 
 **Nebula. In progress...**
-Analysis of overrepresentation of biological pathways
-- Contact me for further details
+Analysis of overrepresentation of biological pathways.  (Contact me for further details).
 
 
 **Computational Detection of Liver Metastases**
-One-line description of what the project does.
--  View repository: (https://github.com/ae7ffl/LiverImaging_DetectionMetastases_3UMA)
+Automated DICOM processing, analysis and visualisation pipeline for the detection and quantification of regions of interest consistent with liver metastases.(https://github.com/ae7ffl/LiverImaging_DetectionMetastases_3UMA)
 
