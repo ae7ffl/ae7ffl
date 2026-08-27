@@ -6,13 +6,20 @@
   </a>
 </p>
 
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=E74C3C&height=200&section=header&text=YourName&fontSize=50&animation=fadeIn" />
+  </a>
+</p>
+
 ---
 
 ### 🧬 About Me
 
-- 🎓 Biomedical Engineer, currently pursuing a Master's in Computational Biomedicine at Universitat Pompeu Fabra
-- 🔬 Interested in [e.g. biomedical signal processing, digital health, AI applied to medicine]
-- 🚀 Recently completed my Bachelor's Thesis: [brief description, e.g. "a digital tool for obesity/prediabetes patients"]
+- 🎓 Biomedical Engineer, currently pursuing a Master's in Computational Biomedical Engineering Master at Universitat Pompeu Fabra
+- 🔬 Interested in biomedical imaging, data analysis and artificial intelligence.
+- 🚀 Recently completed my Bachelor's Thesis: Personalized prediction of the effect of extra virgin olive oil on metabolic health using artificial intelligence algorithms: application to the APRIL study 
 - 📫 Want to get in touch? Check the links below
 
 ---
@@ -20,36 +27,29 @@
 ### 🔗 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-USERNAME" target="_blank">
+  <a href="www.linkedin.com/in/lucía-fernández-fernández-6702a4257" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:ea7ffl@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 💡 Featured Projects
+### 💡 Some Featured Projects
 
-**[Project Name 1]**
+**TFG. ML-based prediction of the effect of AOVE on metabolic health**
+Secondary study of the APRIL nutritional intervention by the University of Málaga, IBIMA and Málaga Regional Hospital
+🔗 [View repository](Private: contact me for further details)
+
+
+**Nebula. In progress...**
+Analysis of overrepresentation of biological pathways
+🔗 [View repository](Private: contact me for further details)
+
+
+**Computational Detection of Liver Metastases**
 One-line description of what the project does.
-🔗 [View repository](https://github.com/your-username/project-1)
+🔗 [View repository](https://github.com/ae7ffl/LiverImaging_DetectionMetastases_3UMA)
 
-**[Project Name 2]**
-One-line description of what the project does.
-🔗 [View repository](https://github.com/your-username/project-2)
-
-**[Project Name 3]**
-One-line description of what the project does.
-🔗 [View repository](https://github.com/your-username/project-3)
-
----
-
-### 📊 GitHub Activity
-
-![Contributions](https://ghchart.rshah.org/2E9EF7/ea7ffl)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ea7ffl&show_icons=true&theme=default&hide_border=true" />
-</p>
