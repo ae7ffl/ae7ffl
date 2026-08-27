@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Biomedical+Engineer;MSc+Student+in+Computational+Biomedicine;Passionate+about+medical+technology" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Biomedical+Engineer;Passionate+about+medical+technology" alt="Typing SVG" />
   </a>
 </p>
 
@@ -48,7 +48,7 @@ One-line description of what the project does.
 
 ### 📊 GitHub Activity
 
-![Contributions](https://ghchart.rshah.org/2E9EF7/YOUR-USERNAME)
+![Contributions](https://ghchart.rshah.org/2E9EF7/ea7ffl)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default&hide_border=true" />
