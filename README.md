@@ -11,10 +11,10 @@
 
 ###  About Me
 
- ➜ Biomedical Engineer, currently pursuing a Master's in Computational Biomedical Engineering Master at Universitat Pompeu Fabra
- ➜ Interested in biomedical imaging, data analysis and artificial intelligence.
- ➜ Recently completed my Bachelor's Thesis: Personalized prediction of the effect of extra virgin olive oil on metabolic health using artificial intelligence algorithms: application to the APRIL study 
- ➜ Want to get in touch? Check the links below
+- ➜ Biomedical Engineer, currently pursuing a Master's in Computational Biomedical Engineering Master at Universitat Pompeu Fabra
+- ➜ Interested in biomedical imaging, data analysis and artificial intelligence.
+-  ➜ Recently completed my Bachelor's Thesis: Personalized prediction of the effect of extra virgin olive oil on metabolic health using artificial intelligence algorithms: application to the APRIL study 
+- ➜ Want to get in touch? Check the links below
 
 ---
 
