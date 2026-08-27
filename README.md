@@ -51,5 +51,5 @@ One-line description of what the project does.
 ![Contributions](https://ghchart.rshah.org/2E9EF7/ea7ffl)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ea7ffl&show_icons=true&theme=default&hide_border=true" />
 </p>
